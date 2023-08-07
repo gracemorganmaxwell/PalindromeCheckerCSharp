@@ -1,0 +1,15 @@
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/bin/Debug/net7.0/PalindromeChecker
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/bin/Debug/net7.0/PalindromeChecker.deps.json
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/bin/Debug/net7.0/PalindromeChecker.runtimeconfig.json
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/bin/Debug/net7.0/PalindromeChecker.dll
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/bin/Debug/net7.0/PalindromeChecker.pdb
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/obj/Debug/net7.0/PalindromeChecker.csproj.AssemblyReference.cache
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/obj/Debug/net7.0/PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/obj/Debug/net7.0/PalindromeChecker.AssemblyInfoInputs.cache
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/obj/Debug/net7.0/PalindromeChecker.AssemblyInfo.cs
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/obj/Debug/net7.0/PalindromeChecker.csproj.CoreCompileInputs.cache
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/obj/Debug/net7.0/PalindromeChecker.dll
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/obj/Debug/net7.0/refint/PalindromeChecker.dll
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/obj/Debug/net7.0/PalindromeChecker.pdb
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/obj/Debug/net7.0/PalindromeChecker.genruntimeconfig.cache
+/Users/graceelizabethmorgan-maxwell/Projects/PalindromeChecker/PalindromeChecker/obj/Debug/net7.0/ref/PalindromeChecker.dll
